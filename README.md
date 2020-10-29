@@ -6,3 +6,4 @@ This application requires the following:
 	3. Create a class named util which has the database credentials i.e. DB_NAME, SERVER_NAME, USERNAME, PASSWORD.
 	4. Make sure to specify the database you are using e.g. MySQL or PostGreSQL in the file db.php
 	5. The file Register.php is a user class, which implements an interface with the name Account.
+	5. Save tthis application on the htdocs folder in the xampp directory
