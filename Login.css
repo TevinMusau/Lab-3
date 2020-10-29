@@ -1,0 +1,77 @@
+body{
+	background: url(Kamado.jpg);
+}
+.LoginForm{
+	text-align:center;
+	padding: 50px 0;
+	padding-top: 10px;
+	margin-top: 130px;
+	margin-left: 700px;
+	width: 400px;
+	height: 230px;
+}
+
+#FieldTitle{
+	font-weight: bold;
+	font-size: 30px;
+	font-family: Papyrus;
+	color: indigo;
+}
+
+#Mail{
+	border-radius: 15px;
+	height: 30px;
+	color: red;
+	font-weight: bold;
+	background-color: #FAEBD7;
+}
+
+#password{
+	border-radius: 15px;
+	height: 30px;
+	color: red;
+	font-weight: bold;
+	background-color: #FAEBD7;
+}
+
+#Login{
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	font-size: 17px;
+	cursor: pointer;
+	width: 130px; 
+	border-radius: 25px;
+	height: 40px;
+	text-align: center;
+	padding: 3px;
+	background-color: #FFE4E1;
+	color: #708090;
+	opacity: 0.7;
+}
+#Login:hover{
+	opacity: 1;
+}
+
+#Login:active{
+	transform: translateY(4px);
+}
+
+#RegLink{
+	cursor: pointer;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: center;
+	font-size: 17px;
+}
+
+#RegLink:hover{
+	text-decoration: underline;
+}
+#RegLink:active{
+	text-decoration: none;
+}
+#RegLink:visited{
+	color: red;
+	text-decoration: none;
+}
+

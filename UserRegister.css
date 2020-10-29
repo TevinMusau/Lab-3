@@ -1,0 +1,82 @@
+body{
+	background: url(Stone.png);
+}
+
+.RegForm{
+	text-align:center;
+	padding: 50px 0;
+	padding-top: 10px;
+	margin-top: 70px;
+	margin-left: 180px;
+	width: 400px;
+	height: 460px;
+}
+
+#FieldTitle{
+	font-weight: bold;
+	font-size: 33px;
+	font-family: Papyrus;
+	color: seagreen;
+}
+
+#Fname{
+	border-radius: 15px;
+	height: 30px;
+	color: #4682B4;
+	font-weight: bold;
+	background-color: #FAEBD7;
+}
+
+#Email{
+	border-radius: 15px;
+	height: 30px;
+	color: #4682B4;
+	font-weight: bold;
+	background-color: #FAEBD7;
+}
+
+#Pass{
+	border-radius: 15px;
+	height: 30px;
+	color: #4682B4;
+	font-weight: bold;
+	background-color: #FAEBD7;
+}
+
+#Address{
+	border-radius: 15px;
+	height: 30px;
+	color: #4682B4;
+	font-weight: bold;
+	background-color: #FAEBD7;
+}
+
+#Profile{
+	border-radius: 15px;
+	height: 30px;
+	color: #4682B4;
+	font-weight: bold;
+}
+
+
+#Register{
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	font-size: 17px;
+	cursor: pointer;
+	width: 130px; 
+	border-radius: 25px;
+	height: 40px;
+	text-align: center;
+	padding: 3px;
+	background-color: antiquewhite;
+	color: seagreen;
+	opacity: 0.7;
+}
+#Register:hover{
+	opacity: 1;
+}
+
+#Register:active{
+	transform: translateY(4px);
+}
