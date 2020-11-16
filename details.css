@@ -1,0 +1,45 @@
+body{
+	background: url(Hero.jpg);
+	color: white;
+	background-size: auto;
+}
+
+#Details{
+	color: teal;
+	font-weight: bold;
+	font-size: 25px;
+	text-decoration: underline;
+}
+
+#Mail{
+	color:lime;
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#Name{
+	color:lime;
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#profile{
+	width: 500px;
+	height: 350px;
+}
+
+#Pass{
+	color: lime;
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#Address{
+	color: lime;
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	font-size: 18px;
+}

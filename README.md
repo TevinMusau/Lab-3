@@ -7,3 +7,4 @@ This application requires the following:
 	4. Make sure to specify the database you are using e.g. MySQL or PostGreSQL in the file db.php
 	5. The file Register.php is a user class, which implements an interface with the name Account.
 	6. Save this application on the htdocs folder in the xampp directory
+	7. Lab 3 was implemented using ajax, but the API part remains pending for now..
